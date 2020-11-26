@@ -1,4 +1,4 @@
-# EFR32_S1RadioBoards_EM2 (BLE & GPD DMP)
+# EFR32_S1RadioBoards_EM2
 
 ## Description
 This projects aims to be a simple source holder to achieve datasheet low power numbers of Silicon Labs EFR32 Series 1 chipsets on Radio Boards
